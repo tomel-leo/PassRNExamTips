@@ -7,7 +7,7 @@ Welcome to **Pass RN Exam Tips**, your ultimate resource for mastering the Regis
 
 
 - **Comprehensive Study Guides:** Practical advice and techniques to structure your preparation effectively.
-- **Test-Taking Strategies:** Proven methods to approach NCLEX-RN style questions.
+- **Test-Taking Strategies:** Proven methods to approach NMCN-RN style questions.
 - **Self-Care Tips:** Ways to maintain your mental and physical well-being during intense study periods.
 - **Responsive Design:** A user-friendly website accessible on any device.
 - **Free and Open Access:** Hosted using GitHub Pages, available to everyone.
